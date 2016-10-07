@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<table>
+  <row>
+    <cell>客服版结构化知识库模板</cell>
+    <cell>客服版结构化知识库模板</cell>
+    <cell>录入内容</cell>
+    <cell>录入内容</cell>
+  </row>
+  <row>
+    <cell>一级属性</cell>
+    <cell>说明</cell>
+    <cell>知识库版本</cell>
+    <cell>10000知道版本</cell>
+  </row>
+  <row>
+    <cell>开始时间</cell>
+    <cell>事件发生的开始时间。</cell>
+    <cell>2月19日  15:00-17:00，2月26日15：00－17：00</cell>
+    <cell />
+  </row>
+  <row>
+    <cell>结束时间</cell>
+    <cell>事件发生的结束时间。到期后，知识会自动从知识库的在用库移入至历史库。</cell>
+    <cell>2013-3-31</cell>
+    <cell />
+  </row>
+  <row>
+    <cell>目标客户</cell>
+    <cell>影响事件的具体客户范围。</cell>
+    <cell>2月1日至2月26日在网掌短厅订制来电提醒优惠用户</cell>
+    <cell />
+  </row>
+  <row>
+    <cell>主叫号码</cell>
+    <cell>群发、外呼的主叫号码。</cell>
+    <cell>10001</cell>
+    <cell />
+  </row>
+  <row>
+    <cell>被叫号码</cell>
+    <cell>涉及的客户清单，该项内容可选，如能提供，解释和拦截效果更好；格式为“本地网名称+号码”。</cell>
+    <cell>见附件</cell>
+    <cell />
+  </row>
+  <row>
+    <cell>预估目标客户数</cell>
+    <cell>涉及客户数量</cell>
+    <cell>350户</cell>
+    <cell />
+  </row>
+  <row>
+    <cell>产品或套餐名称</cell>
+    <cell>需说明是针对何种产品或套餐开展的活动</cell>
+    <cell>来电提醒体验到期提醒短信</cell>
+    <cell />
+  </row>
+  <row>
+    <cell>内容</cell>
+    <cell>群发、外呼的具体内容。</cell>
+    <cell>您的来电提醒免费体验期到2月28日,欢迎继续使用,资费3元/月, 如需取消可随时发送短信2173至10001,详询10000</cell>
+    <cell />
+  </row>
+  <row>
+    <cell>促销赠送和领取条件</cell>
+    <cell>如是现场发放礼品的活动，应说明领取礼品的条件和礼品种类。</cell>
+    <cell>无</cell>
+    <cell />
+  </row>
+  <row>
+    <cell>业务及客服说明</cell>
+    <cell>指群发或是外呼内容的业务说明书（业务介绍）</cell>
+    <cell>1.知识目录 > 业务知识类 > 品牌业务 > 号码百事通（含移动号百） > 来电提醒2.网掌短厅订制的来电提醒体验套餐说明：优惠时长为1个月（含开通当月），用户自行在网掌短厅订制，订制时网掌短厅明确说明优惠到期后按3元/月收取。</cell>
+    <cell />
+  </row>
+</table>
+

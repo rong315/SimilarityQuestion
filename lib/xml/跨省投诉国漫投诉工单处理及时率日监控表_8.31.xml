@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table>
+  <row>
+    <title>跨省投诉/国漫投诉工单处理及时率日监控表</title>
+  </row>
+  <row>
+    <cell>序号</cell>
+    <cell>监控项目</cell>
+    <cell>中国电信广西公司客户服务标准</cell>
+    <cell>中国电信广西公司客户服务标准</cell>
+    <cell>中国电信广西公司客户服务标准</cell>
+    <cell>中国电信广西公司客户服务标准</cell>
+    <cell>说明</cell>
+    <cell>监控日期</cell>
+    <cell>受理量</cell>
+    <cell>时限内处理量</cell>
+    <cell>处理及时率</cell>
+    <cell>超时工单量</cell>
+    <cell>超时原因说明</cell>
+    <cell>备注</cell>
+  </row>
+  <row>
+    <cell>序号</cell>
+    <cell>监控项目</cell>
+    <cell>差异化服务</cell>
+    <cell>差异化服务</cell>
+    <cell>差异化服务</cell>
+    <cell>基础服务</cell>
+    <cell>说明</cell>
+    <cell>监控日期</cell>
+    <cell>受理量</cell>
+    <cell>时限内处理量</cell>
+    <cell>处理及时率</cell>
+    <cell>超时工单量</cell>
+    <cell>超时原因说明</cell>
+    <cell>备注</cell>
+  </row>
+  <row>
+    <cell>序号</cell>
+    <cell>监控项目</cell>
+    <cell>钻石级</cell>
+    <cell>金卡级</cell>
+    <cell>银卡级</cell>
+    <cell>普通会员及其他</cell>
+    <cell>说明</cell>
+    <cell>监控日期</cell>
+    <cell>受理量</cell>
+    <cell>时限内处理量</cell>
+    <cell>处理及时率</cell>
+    <cell>超时工单量</cell>
+    <cell>超时原因说明</cell>
+    <cell>备注</cell>
+  </row>
+  <row>
+    <cell>1</cell>
+    <cell>跨省投诉</cell>
+    <cell>≤3天</cell>
+    <cell>≤3天</cell>
+    <cell>≤3天</cell>
+    <cell>≤5天</cell>
+    <cell>需2个以上省协调处理的投诉</cell>
+    <cell />
+    <cell />
+    <cell />
+    <cell />
+    <cell />
+    <cell />
+    <cell />
+  </row>
+  <row>
+    <cell>2</cell>
+    <cell>国际漫游投诉</cell>
+    <cell>≤1小时</cell>
+    <cell>≤1小时</cell>
+    <cell>≤1小时</cell>
+    <cell>≤1小时</cell>
+    <cell>包括集团及本地受理</cell>
+    <cell />
+    <cell />
+    <cell />
+    <cell />
+    <cell />
+    <cell />
+    <cell />
+  </row>
+</table>
+
